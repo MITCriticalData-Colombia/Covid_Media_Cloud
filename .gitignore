@@ -1,0 +1,10 @@
+*.DS_Store
+*.ipynb_checkpoints/
+*.swp
+
+
+# Datasets as zip files
+*/Casos_positivos_de_COVID-19_en_Colombia.csv
+*/Global_Mobility_Report.csv
+Google_Data/Google_Mobility/Global_Mobility_Report.csv
+*/Region_Mobility_Report_CSVs/*
