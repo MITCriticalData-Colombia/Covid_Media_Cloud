@@ -18,4 +18,4 @@ for filename in glob.glob("*.csv"):
     else:
         res = res.merge(df, left_on="date", right_on="date")
 
-res.to_csv("covid-19_attention_latam.csv")
+res.to_csv("covid_vaccination_attention_latam.csv")
